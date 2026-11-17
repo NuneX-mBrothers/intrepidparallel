@@ -1,0 +1,17 @@
+# Intrepid Parallel, Lda
+
+> Intrepid Parallel, Lda is a software company in Lisbon, Portugal. It makes Windows desktop programs, with interfaces in 16 languages, under the mBrothers brand.
+
+mBrothers is a brand used by Intrepid Parallel, Lda.
+
+## Programs
+
+- [ExplorerFocus](https://intrepidparallel.com/explorerfocus/): a file explorer for Windows 11 and 10, a replacement for Windows Explorer for people who always work in the same folders. Profiles as tabs, a preview that opens almost anything, encrypted vaults compatible with Cryptomator, remote connections (SFTP, FTP, WebDAV, Dropbox, OneDrive) and file tools; it also reads English e-books aloud and turns them into audiobooks. Free version with no time limit; PREMIUM adds more. More in [its llms.txt](https://intrepidparallel.com/explorerfocus/llms.txt).
+- [The Absolute LogViewer](https://intrepidparallel.com/logviewer/): a free Windows log viewer with live tail, regex highlight rules, split-pane comparison and context preview. More in [its llms.txt](https://intrepidparallel.com/logviewer/llms.txt).
+
+## Links
+
+- [Intrepid Parallel](https://intrepidparallel.com/): the company's site, in 16 languages, with its philosophy: "Side by side, unafraid" — software built with rigour, shipped signed and tested, that works on the user's computer and says what it sends.
+- [Legal notice](https://intrepidparallel.com/legal.html)
+- [GitHub](https://github.com/NuneX-mBrothers)
+- Contact: info@intrepidparallel.com

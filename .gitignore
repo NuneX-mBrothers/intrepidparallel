@@ -1,0 +1,3 @@
+# As ferramentas locais do Claude Code (o servidor de pré-visualização, etc.)
+.claude/
+__pycache__/
